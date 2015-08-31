@@ -1,4 +1,4 @@
-Structured Canvas
+Canvas Assembly
 Copyright (c) 2015 Heitor Chang <heitorchang@gmail.com>
 
 MIT License

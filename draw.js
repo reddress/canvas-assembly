@@ -69,6 +69,10 @@ document.getElementById("clearCanvas").addEventListener("click", function() {
   clearCanvas();
 });
 
+document.getElementById("clearInput").addEventListener("click", function() {
+  document.getElementById("input").value = "";
+});
+
 document.getElementById("run").addEventListener("click", function() {
   (1, eval)(document.getElementById("input").value);
 });
